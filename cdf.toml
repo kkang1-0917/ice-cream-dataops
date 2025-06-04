@@ -1,0 +1,17 @@
+[cdf]
+default_env = "test"
+file_encoding = "utf-8"
+
+[plugins]
+run = true
+pull = true
+dump = true
+
+[alpha_flags]
+require-kind = true
+run-workflow = true
+streamlit = true
+module-repeat = true
+
+[modules]
+version = "0.5.30"
